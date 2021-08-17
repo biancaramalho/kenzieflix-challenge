@@ -11,13 +11,13 @@ Projeto desenvolvido na parte 2 da maratona de programação da Kenzie Academy B
   - Detalhes.
 
 - CSS para desenvolvimento web
- - O que é CSS, estilização e padronização BEM;
- - Suporte para browser e suas versões;
- - Seletores e atributos de pseudo classe;
- - Seletores de atributo de correspondência de substring;
- - Noções básicas e terminologia;
- - Prefixando Flexbox e;
- - Propriedades relacionadas;
+  - O que é CSS, estilização e padronização BEM;
+  - Suporte para browser e suas versões;
+  - Seletores e atributos de pseudo classe;
+  - Seletores de atributo de correspondência de substring;
+  - Noções básicas e terminologia;
+  - Prefixando Flexbox e;
+  - Propriedades relacionadas;
 
 ## Ferramentas
 
