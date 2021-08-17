@@ -9,6 +9,7 @@ Projeto desenvolvido na parte 2 da maratona de programação da Kenzie Academy B
   - Artigos;
   - Figuras e legendas e;
   - Detalhes.
+
 - CSS para desenvolvimento web
  - O que é CSS, estilização e padronização BEM;
  - Suporte para browser e suas versões;
